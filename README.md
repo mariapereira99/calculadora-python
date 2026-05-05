@@ -1,21 +1,23 @@
-# Calculadora em Python
+# 🧮 Calculadora em Python com Bash
 
-Projeto simples de calculadora desenvolvido em Python com integração Bash.
+Este projeto consiste em uma calculadora simples desenvolvida em Python, com integração a um script Bash para facilitar a execução em ambientes Unix.
 
-## Funcionalidades
+## 🚀 Funcionalidades
+
 - Soma
 - Subtração
 - Multiplicação
-- Divisão
+- Divisão (com tratamento de erro)
 
-## Como executar
+## 🧠 Lógica do Código
 
-python calculadora.py
+O programa utiliza:
 
-ou
+- Funções para cada operação matemática
+- Estruturas condicionais (`if/elif`)
+- Entrada de dados com `input`
+- Tratamento de erro (ex: divisão por zero)
 
-bash executar.sh
+## 💻 Como executar
 
-## Observação
-
-O projeto pode ser executado em ambientes Linux ou plataformas online.
+### Usando Python:
