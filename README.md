@@ -43,5 +43,4 @@ O projeto pode ser executado em ambientes Linux ou plataformas online.
 
 ## 👩‍💻 Autora
 
-Maria Eduarda
-
+Arianna Pereira
